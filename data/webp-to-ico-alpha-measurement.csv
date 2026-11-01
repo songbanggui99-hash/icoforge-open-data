@@ -1,0 +1,6 @@
+ico_size,ico_bytes,png_payload_bytes,transparent_pixels,opaque_pixels,partially_transparent_pixels,corner_alpha_tl,corner_alpha_tr,corner_alpha_bl,corner_alpha_br
+16,656,634,60,68,128,0,0,0,0
+32,1292,1270,305,416,303,0,0,0,0
+48,1879,1857,826,1040,438,0,0,0,0
+64,2529,2507,1578,1928,590,0,0,0,0
+128,4773,4751,6975,8220,1189,0,0,0,0
