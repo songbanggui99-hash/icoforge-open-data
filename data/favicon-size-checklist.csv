@@ -1,0 +1,14 @@
+favicon_size,platform,format,recommended,notes
+16x16,Windows,ICO,Yes,Classic desktop icon
+24x24,Windows,ICO,Yes,Toolbar detail view
+32x32,Windows,ICO,Yes,Classic desktop icon
+48x48,Windows,ICO,Yes,Properties dialog
+64x64,Windows,ICO,Optional,Large icons view
+96x96,Windows,ICO,Optional,Extra large
+128x128,Windows,ICO,Optional,Mac-style
+256x256,Windows,ICO,Yes,Vista+ jumbo
+180x180,iOS,Apple Touch PNG,Yes,iPhone home screen
+192x192,Android,WebP/PNG,Yes,Android home screen
+512x512,Android,WebP/PNG,Yes,Splash screen
+16x16,Generic favicon,ICO,P Yes,Browser tab default
+32x32,Generic favicon,ICO,P Yes,Modern browser tab
