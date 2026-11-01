@@ -1,0 +1,8 @@
+{
+  "name": "icoforge-open-data",
+  "version": "1.0.0",
+  "description": "Reproducible pixel measurements for WebP/SVG/PNG to ICO conversions",
+  "license": "CC0-1.0",
+  "homepage": "https://icoforge.com",
+  "keywords": ["ico","favicon","webp","svg","png","icon","alpha","transparency","pixel-measurement","rasterization"]
+}
